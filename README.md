@@ -1,6 +1,6 @@
 ## Hi, I'm Micah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Micah Francis and I am a Full Stack Web Developer, specializing in Cyber Security.  I have a particular like to fitness and weight training and I spend most of my time practicing my penetration testing and network analysis skills.
+My name is Micah Francis and I am a Full Stack Web Developer, specializing in Cyber Security.  I have a particular liking to fitness and weight training and I spend most of my time practicing my penetration testing and network analysis skills.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfranciss&hide=,prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 

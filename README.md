@@ -20,12 +20,7 @@ My name is Micah Francis and I am a Full Stack Web Developer, specializing in Cy
 
 ## Featured Projects
 
-![](images/Malware_Analysis/hostname_user_account_name_filter.png) ![](images/Malicious_Email/infected_mac_address.png)
-### Malicious Email
-<p float="left">
-<img src="image/Malicious_Email/infected_mac_address.png" width="150" height="150">
-<img src=image/Malware_Analysis/hostname_user_account_name_filter.png width="150" height="150">
-</p>
+
 
 
 

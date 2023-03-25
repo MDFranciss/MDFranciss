@@ -8,7 +8,7 @@ My name is Micah Francis and I am a Full Stack Web Developer, specializing in Cy
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I am currently a student at The Tech Academy.
+- 🔭 I am currently an intern at Prosper IT Consulting.
 - 📫 How to reach me: mfrancis362@gmail.com
 - ⚡ Fun fact: I go to the gym quite often.
 

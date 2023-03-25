@@ -17,3 +17,15 @@ My name is Micah Francis and I am a Full Stack Web Developer, specializing in Cy
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Featured Projects
+
+![](images/Malware_Analysis/hostname_user_account_name_filter.png) ![](images/Malicious_Email/infected_mac_address.png)
+### Malicious Email
+<p float="left">
+<img src="image/Malicious_Email/infected_mac_address.png" width="150" height="150">
+<img src=image/Malware_Analysis/hostname_user_account_name_filter.png width="150" height="150">
+</p>
+
+
+
